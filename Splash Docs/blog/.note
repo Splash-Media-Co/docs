@@ -1,0 +1,6 @@
+---
+slug: #the id thingie here
+title: #title here
+authors: [splashteam] #array of authors, separated by comma and defined in authors.yml
+tags: [docusaurus] #array of tags, separated by comma and defined in tags.yml
+---
